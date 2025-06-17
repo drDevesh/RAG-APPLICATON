@@ -1,4 +1,4 @@
-project-folder/
+ragify/
 │
 ├── data/                      # Place your PDF files here
 │   └── yourfile.pdf
@@ -8,3 +8,4 @@ project-folder/
 ├── app.py                    # Your main Streamlit script
 └── requirements.txt          # (optional) dependencies
 
+**step-1**
