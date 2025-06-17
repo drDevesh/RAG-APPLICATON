@@ -1,4 +1,4 @@
-ragify/
+```ragify/
 │
 ├── data/                      # Place your PDF files here
 │   └── yourfile.pdf
@@ -7,5 +7,6 @@ ragify/
 │
 ├── app.py                    # Your main Streamlit script
 └── requirements.txt          # (optional) dependencies
+```
 
 # Step1
